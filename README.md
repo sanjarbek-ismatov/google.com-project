@@ -1,4 +1,4 @@
-# google-clone
+# google.com
 Cloned version of google(with html, css)
 Whats added?
 1.0:
