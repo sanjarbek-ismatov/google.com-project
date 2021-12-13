@@ -37,10 +37,10 @@
 	margin-top: 100px;
 }
 .input{
+	margin-top: 6px;
 	background-color: transparent;
     border: none;
-    width: 80%;
-    margin-top: 5px;
+    width: 400px;
     padding: 0;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
@@ -59,7 +59,9 @@
 	margin-top: 30px;
 	text-align: center;
 }
-.input-div{
+
+#input-b{
+	display: inline-block;
 	height: 44px;
 	margin: auto;
 	width: 590px;
@@ -67,11 +69,52 @@
 	border-radius: 25px;
 }
 #voice{
+	margin-top: 2px;
 	height: 32px;
 	width: 32px;
-	margin-left: 10px;
-	margin-top: 4px;
+}
+#main-input{
+	height: 200px;
+}
+#input-a{
+	margin-top: -10px;
+	height: 50%;
+}
+#input-b{
+	height: 46px;
+	width: 584px;
+	margin: auto;
+}
+#search-image{
+	width: 30px;
+}
+#input-div{
+	width: 450px;
+	height: 34px;
+}
+#keyboard-div{
+	text-align: center;
+	width: 30px;
+}
+#voice-div{
+	text-align: center;
+	width: 30px;
+}
+#keyboard-div, #voice-div{
+	margin-left: 15px;
+	margin-top: 5px;
+}
+#input-b div{
+	float: left;
+	height: 100%;
+}
+#search-id{
+	height: 15px;
+	width: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
 }
 #keyboard{
-	margin-bottom: 7px;
+	margin-top: 14px;
+	margin-left: 7px;
 }
