@@ -65,7 +65,7 @@
 	height: 44px;
 	margin: auto;
 	width: 590px;
-	border: 1px solid #c5c5c5;
+	border: 1px solid #d4d4d4;
 	border-radius: 25px;
 }
 #voice{
@@ -78,7 +78,7 @@
 }
 #input-a{
 	display: flex;
-	margin-top: -10px;
+	margin-top: -30px;
 	height: 50%;
 }
 #input-b{
